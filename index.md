@@ -4,18 +4,18 @@ layout: home
 
 hero:
   name: 同济小本本
-  text: 就诊小贴士
-  tagline: 在同济看病，您所需要知道的一切
+  text: 我的小贴士
+  tagline: o(*￣▽￣*)ブ
   image:
     src: /assets/cover.png
     alt: VitePress
-  actions:
-    - theme: brand
-      text: 维护知识库
-      link: /markdown-examples
-    - theme: alt
-      text: 联系管理员
-      link: /api-examples
+  # actions:
+  #   - theme: brand
+  #     text: 🤭
+  #     link: /markdown-examples
+  #   - theme: alt
+  #     text: ✌
+  #     link: /api-examples
 
 features:
   - icon: 🏥
